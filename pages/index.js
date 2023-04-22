@@ -62,7 +62,7 @@ export default function Home() {
           </nav>
           <div className="text-center p-10 py-10 pt-2">
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-48 h-48 relative overflow-hidden mt-10 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" alt="" />
+              <Image src={deved} layout="fill" objectFit="cover" />
             </div>
             <h2 className="text-5xl mt-7 py-1 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
               Aman Verma
