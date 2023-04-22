@@ -18,7 +18,6 @@ import nodeLogo from "../public/nodeLogo.png";
 import tailwindLogo from "../public/tailwindLogo.png";
 import bootstrapLogo from "../public/bootstrapLogo.png";
 import mongodbLogo from "../public/mongodb.png";
-import resume from "../public/resume.pdf";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -57,8 +56,8 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href={resume}
-                  download={AmanResume}
+                  href="https://drive.google.com/file/d/1HtcMTnhob5T3ujWPBpEVqeZMp1aAVa-B/view?usp=share_link"
+                  rel="nooperner noreferrer"
                 >
                   Resume
                 </a>
