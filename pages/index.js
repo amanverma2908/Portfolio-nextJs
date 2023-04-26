@@ -28,7 +28,7 @@ export default function Home() {
         <title>Aman Verma</title>
         <meta
           name="description"
-          content="Aman Verma - Full Stack Developer and designer. Follow me on my links and lets create great projects together"
+          content="Aman Verma - Full Stack Developer and designer. Follow me on my links and lets create great projects together."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
